@@ -1,0 +1,1 @@
+Images to get an impression how the GUI looks like.
